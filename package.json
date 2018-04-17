@@ -1,0 +1,19 @@
+{
+  "name": "google-analytics-turbolinks",
+  "version": "0.1.0",
+  "description": "Use Google Analytics with Turbolinks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshdvir/google-analytics-turbolinks.git"
+  },
+  "author": "joshdvir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshdvir/google-analytics-turbolinks/issues"
+  },
+  "homepage": "https://github.com/joshdvir/google-analytics-turbolinks"
+}
